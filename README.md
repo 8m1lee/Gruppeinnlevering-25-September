@@ -1,1 +1,5 @@
-# Gruppeinnlevering-25-September
+# Kildeliste
+
+​Institute of Project Management. (2022, Desember 09). The 5 Stages of Team Development: Tuckman’s Model. Institute of Project Management: https://instituteprojectmanagement.com/blog/the-5-stages-of-team-development/ 
+
+​Stein, J. (u.å.). Using the Stages of Team Development. MIT Human Recources: https://hr.mit.edu/learning-topics/teams/articles/stages-development 
