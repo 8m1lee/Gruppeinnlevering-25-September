@@ -2,7 +2,7 @@
 
 I tillegg til å utarbeide en strategi for rekruttering, må de ny rekrutterte medlemmene settes sammen på en strategisk måte, slik at medlemmene etableres bra dynamikk innenfor prosjektgruppene. Når gruppene først blir slått sammen, er det viktig å forstå hvordan de kan utvikles.  
 
-## Å forstå Tuckmannmodellen 
+## Å forstå Tuckmanmodellen 
 
 Med prosjektgrupper som består av heterogene fagbakgrunner, må prosjekt ledere som Erling, forstå hvordan disse nylige sammensatte gruppene blir å samarbeide i gruppens livstid. I 1965, en sosialpsykolog kjent som Dr. Bruce W. Tuckman, publiserte hans ideer av de fire fasene til team utvikling. I utgangspunkt, er teamutvikling prosessen når en gruppe settes sammen for å eventuelt danne en sammenhengende enhet, der de blir å jobbe sammen til et felles mål. Men, for at disse grupper skal kunne lykkes, må det bli etablert roller og ansvar. Dr. Bruce W. Tuckman diskuterte at fasene til teamutvikling var i starten, forming, storming, norming og performing. Likevel i 1977 dannet Tuckman den femte og siste fasen til tuckmanmodellen, kjent som adjourning. Å forstå denne modellen kan hjelpe ledere å organisere, veilede og eventuelt få sammensetningen av grupper til å styrke samarbeidet. (Institute of Project Management, 2025). 
 ### Forming 
