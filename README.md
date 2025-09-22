@@ -1,30 +1,17 @@
-## **Gruppeinnlevering-25-September** 
+# Strategi for sammensetning 
 
-# **Strategi for sammensetning**
+I tillegg til å utarbeide en strategi for rekruttering, må de ny rekrutterte medlemmene settes sammen på en strategisk måte, slik at medlemmene etableres bra dynamikk innenfor prosjektgruppene. Når gruppene først blir slått sammen, er det viktig å forstå hvordan de kan utvikles.  
 
-# Å forstå Tuckmanmodellen
-I tillegg til å finne en strategi for rekruttering, må disse nylige rekrutterte medlemmene bli sammensatt på en strategisk måte, sånn at medlemmene ha bra dynamikk innenfor prosjektgruppene. Da grupper blir først slått sammen, er det viktig å forstå hvordan man utvikler de gruppene. 
+## Å forstå Tuckmannmodellen 
 
-
-Med grupper som involverer heterogene bakgrunner, må lederne forstå hvordan disse nylige sammensatte prosjektgruppene blir å samarbeide i gruppens livstid. I 1965, en sosialpsykolog kjent som Dr. Bruce Wayne Tuckman publiserte hans ideer av de fire fasene til team utvikling. Teamutvikling er prosessen når en gruppe settes sammen for å eventuelt danne en sammenhengende enhet der de blir å jobbe sammen til et felles mål. Men, for at disse gruppene skal kunne lykkes, må det bli etablert roller og ansvar. Dr. Bruce Wayne Tuckman diskuterte at fasene til teamutvikling var i utgangspunktet forming, storming, norming og performing. Likevel i 1977 dannet Tuckman den femte og siste fasen til tuckmanmodellen, kjent som adjourning. Å forstå denne modellen kan hjelpe ledere å organisere, veilede og eventuelt få sammensetningen av gruppen til å styrke samarbeidet. (Institute of Project Management, 2025). DJWAIDA
-
-Forming
-
-I Tuckman sin modell er det ulike forventede situasjoner som befinner seg i hver av fasene. Først og fremst av de fem fasene har vi forming. I denne fasen er det ofte lite engasjement mellom medlemmer av nylige dannet grupper og bidraget til arbeidet er for det meste minimalt.
-
-
-Storming
-
-Norming
-
-Performing
-
-Adjourning
-
-# Balansere likhetene med mangfoldet
-
-# Rollefordeling tydelig gjøring
-
-
-# Tidlig Planlegging
-
+Med prosjektgrupper som består av heterogene fagbakgrunner, må prosjekt ledere som Erling, forstå hvordan disse nylige sammensatte gruppene blir å samarbeide i gruppens livstid. I 1965, en sosialpsykolog kjent som Dr. Bruce W. Tuckman, publiserte hans ideer av de fire fasene til team utvikling. I utgangspunkt, er teamutvikling prosessen når en gruppe settes sammen for å eventuelt danne en sammenhengende enhet, der de blir å jobbe sammen til et felles mål. Men, for at disse grupper skal kunne lykkes, må det bli etablert roller og ansvar. Dr. Bruce W. Tuckman diskuterte at fasene til teamutvikling var i starten, forming, storming, norming og performing. Likevel i 1977 dannet Tuckman den femte og siste fasen til tuckmanmodellen, kjent som adjourning. Å forstå denne modellen kan hjelpe ledere å organisere, veilede og eventuelt få sammensetningen av grupper til å styrke samarbeidet. (Institute of Project Management, 2025). 
+### Forming 
+I Tuckman sin modell er det ulike forventede situasjoner som befinner seg i hver av fasene. Først og fremst blir forming den første fasen en gruppe blir å møte på. I denne fasen er det ofte lite engasjement mellom medlemmer av nylige dannet grupper, og bidraget til arbeidet er for det meste minimalt. Å jobbe med folk fra ulike fagbakgrunner, er det viktig å tydelig avklare de ulike rollene, målene og det som forventes, for å skape trygghet og mindre usikkerhet innenfor gruppene.  Ledere skal ta hensyn til at rollefordeling blir tydeliggjort og anbefales at lederne tar en gjennomgang av prosjektmålene for å legge til rette for tidlig framgang i prosjektet.  
+### Storming 
+Når prosjektet har kommet i gang, kan det oppstå uenigheter og frustrasjoner innenfor grupper. Dette er tegn på den neste fasen i Tuckmanmodellen, storming. I storming fasen blir medlemmer å føle at det er årsaker som forhindrer individenes eller gruppens progresjon i arbeidet, og ofte retter følelsene mot individuelle gruppemedlemmer eller gruppe ledere. Årsaken til dette kan være på grunn av de ulike fagbakgrunnene som befinner seg i gruppene, som skaper ulike metoder og prioriteringer, der konflikter eventuelt blir startet. Her bør ledere etablere en plan som sørger for at uenigheter blir håndtert konstruktivt, der de i tillegg kan arrangere møter som fokuserer på å få kommunisert medlemmenes tanker og frustrasjoner.  
+### Norming 
+Disse møtene kan eventuelt utvikle medlemmenes tanker om hverandre.  I gruppens livstid blir medlemmer å kjenne til normer innenfor gruppene, og en forventet arbeidskultur blir etablert. Da har man begynt med norming fasen. I motsetning til forming fasen, her er det høyere arbeidsengasjement innenfor gruppen og å formidle konstruktiv kritikk har blitt normen. På norming fasen anbefales det at ledere fortsetter å arrangere møter som isteden evaluere gruppens arbeid så langt, og om rutiner blir holdt. 
+### Performing 
+Overtid skaper disse normene bra gruppe flyt som fører til et bra miljø mellom gruppene. På den fjerde fasen, performing, blir medlemmer godt kjent med hverandre, der grupper spiller på hverandre sine styrker og svakheter. De ulike medlemmene har blir kjent med egne roller, og sammen skaper en flyt i gruppens prestasjon. I hensyn med Erling sitt begrenset tid og budsjett, burde han sørge for at gruppene blir å raskt nå denne fasen, slik at det som må bli gjort blir fullført. Erling burde sørge for at endringer i gruppens miljø, i filfelle det er for eksempel nye medlemmer, ikke påvirker gruppenes prestasjon, og eventuelt ikke setter gruppene i syklus på tidligere faser.  
+### Adjourning 
+Når grupper overkommer performing fasen, er adjourning, den siste fasen. Ofte kan gruppper bli lansert i lengere tid, men eventuelt da slutten på gruppens livstid nærmer seg, må de eventuelt oppløses. I denne siste avslutningsfasen, kan Erling bruke denne muligheten til å etablere en evaluering av prosjektet, og deretter bruke erfaring i å forbedre prosessen i fremtidige prosjekter (Stein, u.å.). 
