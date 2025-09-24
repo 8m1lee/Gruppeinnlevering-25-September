@@ -1,7 +1,7 @@
 ## **Gruppeinnlevering-25-September** 
 
 # **Proaktive mekkanismer for konfikthåntering**
-I en prosjektgruppe som denne er det alltid risiko for konflikter kan oppstå og eskalerer. Derfor er det viktig at gruppen reflekter over dette tidlig i prosessen. Det finnes fler proaktive mekanismer som kan iverksettes for å forebygge konflikter og legge et godt grunnlag for konflikthåndtering underveis i prosjektet. 
+I en prosjektgruppe som denne er det alltid risiko for at konflikter kan oppstå og eskalerer. Derfor er det viktig at gruppen reflekter over dette tidlig i prosessen. Det finnes fler proaktive mekanismer som kan iverksettes for å forebygge konflikter og legge et godt grunnlag for konflikthåndtering underveis i prosjektet. 
 
 **Forventnigsavklaring**
 
@@ -34,3 +34,4 @@ For Erlings prosjekt vil proaktive mekanismer for konflikthåndtering være avgj
 1.	Gjøsund, P., & Huseby, R. (2015). To eller flere... Basiskunnskaper i gruppepsykologi (4. utg.). Cappelen Damm Akademisk
 2.	Jacobsen, D. I. (2016). Engangsorganisasjonen
 3.	I denne oppgaven har også språkmodellen GPT-5 via ChatGPT+ for å forbedre setningsstrukturer og grammatiske feil. Jeg har ikke brukt den til å skrive hele avsnitt, men til å bearbeide min egen tekst. 
+ 
