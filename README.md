@@ -1,30 +1,36 @@
 ## **Gruppeinnlevering-25-September** 
 
-# **Strategi for sammensetning**
+# **Proaktive mekkanismer for konfikthåntering**
+I en prosjektgruppe som denne er det alltid risiko for konflikter kan oppstå og eskalerer. Derfor er det viktig at gruppen reflekter over dette tidlig i prosessen. Det finnes fler proaktive mekanismer som kan iverksettes for å forebygge konflikter og legge et godt grunnlag for konflikthåndtering underveis i prosjektet. 
 
-# Å forstå Tuckmanmodellen
-I tillegg til å finne en strategi for rekruttering, må disse nylige rekrutterte medlemmene bli sammensatt på en strategisk måte, sånn at medlemmene ha bra dynamikk innenfor prosjektgruppene. Da grupper blir først slått sammen, er det viktig å forstå hvordan man utvikler de gruppene. 
+**Forventnigsavklaring**
 
+Ved å gjennomføre en forventningsavklaring ved prosjektstart enten i det første møtet eller ved en sosial samling i forkant av prosjektets offisielle start. I en forventningsavklaring er det viktig at alle får anledning til å utrykke sine forventninger til arbeidsmengde, innsasts de ønsker å lege i prosjektet og ønskende roller og ansvar innad i gruppen. I tillegg er det viktig å diskutere verdier, normer, prinsipper og kommunikasjonsformer man ønsker å legge som grunnlag i prosjektsamarbeidet.
+Gjennom en åpen og strukturert forventningsavklaring kan gruppen etablere felles normer og kommunikasjonspraksiser som skaper trygghet og reduserer risikoen for misforståelser og uenigheter i prosjektet. 
 
-Med grupper som involverer heterogene bakgrunner, må lederne forstå hvordan disse nylige sammensatte prosjektgruppene blir å samarbeide i gruppens livstid. I 1965, en sosialpsykolog kjent som Dr. Bruce Wayne Tuckman publiserte hans ideer av de fire fasene til team utvikling. Teamutvikling er prosessen når en gruppe settes sammen for å eventuelt danne en sammenhengende enhet der de blir å jobbe sammen til et felles mål. Men, for at disse gruppene skal kunne lykkes, må det bli etablert roller og ansvar. Dr. Bruce Wayne Tuckman diskuterte at fasene til teamutvikling var i utgangspunktet forming, storming, norming og performing. Likevel i 1977 dannet Tuckman den femte og siste fasen til tuckmanmodellen, kjent som adjourning. Å forstå denne modellen kan hjelpe ledere å organisere, veilede og eventuelt få sammensetningen av gruppen til å styrke samarbeidet. (Institute of Project Management, 2025). DJWAIDA
+**Strukturerte møter**
 
-Forming
+Ved å ha regelmessige statursmøter blir det skapt forutsigbarhet og åpenhet i gruppa. Her er det viktig å sette av tid til å snakke gjennom arbeidsflyt, fremdrift og eventuelle utfordringer. Slike møter gir muligheter for medlemmene til å komme med innspill og avklare usikkerheter eller misforståelser på et tidlig stadium. 
 
-I Tuckman sin modell er det ulike forventede situasjoner som befinner seg i hver av fasene. Først og fremst av de fem fasene har vi forming. I denne fasen er det ofte lite engasjement mellom medlemmer av nylige dannet grupper og bidraget til arbeidet er for det meste minimalt.
+**Beslutninger**
 
+Det er avgjørende for gruppen at de på forhånd har snakket om og skapt en enighet rund hvordan uenighet skal adresseres og hvordan beslutninger skal tas. I grupper hvor dette er tydelig avklart tidlig i prosessen, blir uenigheter og konflikter lettere og håndter før de eskalerer. Dette gir også trygghet i gruppa og reduserer risikoen for fastlåste situasjoner. 
 
-Storming
-
-Norming
-
-Performing
-
-Adjourning
-
-# Balansere likhetene med mangfoldet
-
-# Rollefordeling tydelig gjøring
+**Konfliktforebyggende prosedyrer**
 
 
-# Tidlig Planlegging
+Det er viktig at prosjektgruppen setter tydelige rammer for hvordan konflikter i gruppa skal håndteres. Ved å ha en enkel og strukturert prosedyre kan avklare uenigheter raskt. En slik prosedyre kan se slik ut:
+* _Tidsramme for løsning_: Ved konflikter mellom gruppemedlemmer skal disse løses på en saklig måte mellom de medlemmene det gjelder innen 48 timer.
+* _Bruk av prosjektleder som tilrettelegger_: Hvis medlemmene ikke klarer å komme til enighet eller løse konflikten skal saken løftes til prosjektleder (i dette tilfelle Erling) som bidrar med en kort , løsningsorienter dialog.
+* _Involvering av en tredjepart_: Ved vedvarende eller fastlåse konflikter kan en tredjepart involveres for å løse konflikten. 
 
+En slik prosedyrer skaper en forventing til hvordan konflikter skal og en trygghet på at konflikter ikke bli liggende uløste. 
+
+**Oppsummering**
+
+For Erlings prosjekt vil proaktive mekanismer for konflikthåndtering være avgjørende for prosjektets suksess. Gjennom tydelig forventningsavklaring, satte møter, avtalte beslutningsprosesser og en enkel prosedyre for konflikthåndtering vi gruppen kunne skape trygghet, forutsigbarhet og godt samarbeid på tvers av fagområder og interesser. 
+
+**Kilder**
+1.	Gjøsund, P., & Huseby, R. (2015). To eller flere... Basiskunnskaper i gruppepsykologi (4. utg.). Cappelen Damm Akademisk
+2.	Jacobsen, D. I. (2016). Engangsorganisasjonen
+3.	I denne oppgaven har også språkmodellen GPT-5 via ChatGPT+ for å forbedre setningsstrukturer og grammatiske feil. Jeg har ikke brukt den til å skrive hele avsnitt, men til å bearbeide min egen tekst. 
