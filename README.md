@@ -26,5 +26,8 @@ Stein, J. (u.å.). Using the Stages of Team Development. MIT Human Recources: ht
 
 •	Vårdal, L (2019, 17. juni) Kvalitative og kvantitative metoder, NDLA, https://ndla.no/nb/r/verktoykassa---for-larere/kvalitative-og-kvantitative-metoder/1cd8ecb217<img width="470" height="57" alt="image" src="https://github.com/user-attachments/assets/a238eb21-4166-4872-a01c-d4be03af1438" 
 
-
+*  Gjøsund, P., & Huseby, R. (2015). To eller flere... Basiskunnskaper i gruppepsykologi (4. utg.). Cappelen Damm Akademisk
+*  Jacobsen, D. I. (2016). Engangsorganisasjonen
+*  Denne oppgaven har også språkmodellen GPT-5 via ChatGPT+ for å forbedre setningsstrukturer og grammatiske feil. Jeg har ikke brukt den til å skrive hele avsnitt, men til å bearbeide min egen tekst. 
+ 
 
