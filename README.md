@@ -1,4 +1,3 @@
-Håndtering_av_tidspress_og_planleggingsfellen
 
 # 1 Strategi for sammensetning 
 
@@ -147,6 +146,33 @@ En slik prosedyrer skaper en forventing til hvordan konflikter skal og en tryggh
 
 For Erlings prosjekt vil proaktive mekanismer for konflikthåndtering være avgjørende for prosjektets suksess. Gjennom tydelig forventningsavklaring, satte møter, avtalte beslutningsprosesser og en enkel prosedyre for konflikthåndtering vi gruppen kunne skape trygghet, forutsigbarhet og godt samarbeid på tvers av fagområder og interesser. 
 
+Håndtering_av_tidspress_og_planleggingsfellen
+#5 Håndtering av tidspress og planleggingsfellen
+
+Når man starter med et prosjekt, får man ofte tidspress og havner i planleggingsfellen. Her er noen råd til prosjektlederen (Erling) om hvordan man kan unngå å motvirke dette, sånn at du får en balansert, klar og fleksibel plan, og hvordan man kan motvirke handlingspresset i tidlig fase. 
+
+Tidspress
+
+la oss starte med tidspress. For en prosjektleder er det viktig at man vet hvor viktig det er å sette av tid for planlegging og teambygging i prosjektets tidlige fase.  Tidspress føler man når man tror de har altfor lite tid, også tenker de at de vil helst bli ferdig så tidlig som mulig.
+Derfor blir de stressa, også går de til å starte med en gang uten å legge av tid til å planlegge og samarbeide i starten. En annen ting som kan gjøre sånn at man føler at man har dårlig tid er, åssen prosjektet er organisert. Så det vil si at som oftest så har de organisert klart mål og et avslutningstidspunkt, 
+som fører til at prosjektmedlemmene havner i en spesiell tidsramme, og dette får prosjektmedlemmene til å tenke mer på fremtiden og glemmer nåtid (hva vi gjør akkurat nå) og fortiden (hva vi har gjort tidligere).
+Dette fører også til at man alltid har følelsen på at man har dårlig tid hele tiden, men prosjektmedlemmene har også handlingspress med den kombinasjonen altså tidsfrist og klare mål.
+
+ Noe som kan hjelpe med det er akronymet SMART-mål. Dette hjelper prosjektmedlemmene å holde mer fokus 
+•	Spesifikke – så klare at de forstås likt av alle involverte i prosjektet 
+•	Målbare – at det klart og objektivt kan slås fast om målene er nådd eller ikke 
+•	Aksepterte – at de sentrale interessenter i prosjekter er enige om målene 
+•	Realistiske – at målene må være mulig å nå med de ressurser prosjektet har til rådighet 
+•	Tidsbegrensede – at de har en klar tidsramme (Jacobsen, 2016 s. 47)
+
+Med å bruke dette, så blir medlemmene mer motiverte til å kaste seg ut i prosjektet, altså handling prioriteres, som kan fører til at man kan tenke at å bli kjent med hverandre er noe som er unødvendig, eller å planlegge er uproduktivt.
+Med andre ord, så er det mye som går inn på tidspress. I dette tilfelle, så har Erling 15 måneder på seg til å bli ferdig med dette prosjektet, så å bruke tid på planlegging og teambygging er rådet som burde bli brukt for en god forståelse av hverandre, og en god plan kan hjelpe med tidspresset.
+Prosjektlederen burde fokuserer på å balansere teambygging og planlegging i tidlig fasen av prosjektet. Det er viktig å bruke tiden i tidlig fasen godt uansett om det føles ut som at du har dårlig tid. 
+
+Planleggingsfellen 
+Håndtering_av_tidspress_og_planleggingsfellen
+En plan er en noe som skal fortelle oss om fremtiden, men når man lager planer så er det umulig å vite hva som kommer til å skje i fremtiden, så det er mye usikkerhet, og usikkerhet er størst i starten av et prosjekt. Usikkerhet er noe man bør forvente på starten av et prosjekt, man burde være forbedret på at det vil skje noe uventede ting. Jo lengere prosjektet varer og hvor vanskelig et prosjekt er, jo større er usikkerheten som man må regne med, og derfor må sånne større prosjekter regne med endringer underveis i planen. Dette skaper noe som heter planleggingsparadokset. Det handler om å finne balansen mellom en tydelig plan og rom for nødvendige justeringer. Her spiller det hvor mye en plan burde være detaljert, alt for detaljert plan kan være bra, men kan også føre til stiavhengighet. Som vil si at det vil være vanskeligere å endre på planer senere i prosessen så ikke så åpent, men altfor åpent plan kan føre til dårlig koordinering, frustrasjon fordi du ikke vet når ting skal skje og problemer med motivasjon fordi det er uklare tidsfrister for eksempel. I dette tilfelle så er kommunikasjon en veldig viktig ting å tenke på, for prosjektmedlemmene burde ha klarhet over planen, men samtidig være åpne til nye ideer og endringer så kommunikasjon kan hjelpe med dette. Som oftest så bruker man elektronisk, men man må lage ett system der man kan finne ut av åssen prosessen går, altså om man finner ut av noen problemer eller om det er en uenighet som kan diskuteres i for eksempel møter på nettet eller direkte møter. Disse møtene kan hjelpe med nye ideer, men kan også se på ulike deler av prosjektet som bør endres eller ses mer på. Så det som skal frem er at planlegging handler om å finne balansen mellom faste mål og rom for endringer (Jacobsen, 2016, s. 47-50).  
+•	Jackobsen, D.I (2016) Engangsorganisasjonen (1.utg) fagbokforlaget.
 
 
 # Kildeliste
