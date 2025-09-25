@@ -1,4 +1,4 @@
-# 1 Strategi for sammensetning 
+﻿# 1 Strategi for sammensetning 
 
 I tillegg til å utarbeide en strategi for rekruttering, må de nyrekrutterte medlemmene settes sammen på en strategisk måte, slik at medlemmene etablerer bra dynamikk innenfor prosjektgruppene. Når gruppene først blir slått sammen, er det viktig å forstå hvordan de kan utvikles.
 
@@ -146,6 +146,60 @@ En slik prosedyrer skaper en forventing til hvordan konflikter skal og en tryggh
 For Erlings prosjekt vil proaktive mekanismer for konflikthåndtering være avgjørende for prosjektets suksess. Gjennom tydelig forventningsavklaring, satte møter, avtalte beslutningsprosesser og en enkel prosedyre for konflikthåndtering vi gruppen kunne skape trygghet, forutsigbarhet og godt samarbeid på tvers av fagområder og interesser. 
 
 
+## `Sikring av god kommunikasjon: Råd og anbefalinger som prosjektlederen kanbenytte for å sikre en god og effektiv kommunikasjon i teamet.`
+
+# `Hvorfor kommunikasjon er avgjørende`
+
+## `Heterogent team → ulike fagfelt, språk og perspektiver`
+    
+    Å være forskjellige er ganske avgjerande, spesielt når det handlar om prosjekt samarbeid. Tar utgangspunktet i om vi alle hadde kun eit fagfelt, språk eller perspektiv då hadde vi alle sikkert tenkt på å lage ein ting for eksempel sykkel, da hadde ingen tenkt på å lage motorsykkel, bil, fly osv... Dermed settast eit ekstra vekt på at teamet skal bestå av forskjellige folk med forskjellige fagfelt, språk og perspektiv. Da leverer teamet dream resultat. I dette tilfelle skal teamet jobbe for same mål og produkt, men likevel krevast at teamet skal bestå av forskjellige fagfolk med forskjellige språk og spesielt med forskjellige perspektiv for å levere det beste resultatet som mogleg.
+    
+
+## `God kommunikasjon skaper felles forståelse og reduserer risiko for misforståelser`
+
+    
+    For å oppnå alt vi har snakka om i øverste feltet, så er det super viktig at god kommunikasjon er sikra. God kommunikasjon forebygge misforståelse, feiltolking og sikre at alle i teamet jobbe for same mål. I tillegg blir oppgåveløysinga effektiv og teamet blir lofta opp og sikre oss motivasjonen for framtidige prosjekter.
+    
+
+## `Kanaler og verktøy Dagleg/uformell kommunikasjon: Teams eller Slack.`
+
+    
+    Eg vil anbefale bruk av Teams for dette formelle. Teams er verdens kjent og er enkelt til å bruke og kan bli integrert med forskjellige løysingar.  
+    Ved Teams bruk kan vi sikre kjapp og rask dialog, stille spørsmål, dele korte meldingar og generelle oppdateringar. Teams gjer det mogleg for å opprette forskjellige kanalar, chatgruppar og innkalling til digitale møter.  
+    I tillegg til det digitale kommunikasjon, F2F kommunikasjon skal ikkje veljast bort.  
+    
+
+## `Oppgavestyring og oversikt: Trello, Jira eller digital kanban-tavle.`
+
+    
+    Jira er ein bra løysing her og kan bli nytta på ein effektiv måte. Jira kan gi oss ein enkelt og fin oversikt over oppgåver, ansvar og framdrift og også framtidige hindringar kan meldast her.
+    
+
+## `Formelle saker: e-post til beslutninger og referater`
+
+    
+    E-post er ein profesjonell måte for å handtere beslutningar, her anbefalst å bruke Outlook som er ein del av Office pakka. Office er verdens kjent og nesten alle bedrifter i verden brukar Office. Med denne løysinga kan vi sikre ein god kommunikasjon med formelle saker via e-post og Office pakka, i tillegg har vi e-post krypteringa via office365 eller Tenanten vår slik at ingen ukjente domene får sende oss e-post og få oss til å klikke på ukjente link. Dette da handlar mest om å unngå phishing og hacking.  
+    
+    
+
+## `Visuell statusoversikt: dashboard eller prosjektplan synlig for alle`
+
+    
+    Prosjektplan som er ein del av Office pakka kan også benyttast til dette formelle her. Den er ganske enkel å bruke og enkelt til å dele med kollegaer, i tillegg kan dokumentet bli kryptert/låst slik at arbeidet/prosjektet/dokumentet ikkje gå i av veg eller havne på feile hender  
+    
+    
+
+## `Til slutt 
+## Kommunikasjon:`
+    Tidleg i prosjektet bør kommunikasjonsrutine definerast – altså alle får vete sine rolle og kven som informere om kva gjennom det digitale eller fysiske hjelpemidlar, kommunikasjonen er alltid to vegs for å sikre god informasjonsflyt.  
+      
+    Office 365 pakka:  
+    for å spare mest mogleg pengar, unngå frustrasjon og samle alt på ein plass er Office pakka ganske genialt og enkelt til å bruke.
+    
+
+
+
+
 
 Kildeliste
 # Kildeliste
@@ -177,3 +231,5 @@ Eget arbeid fra tidligere jobb innen HR
 GPT.uio er brukt for å forbedre min egen tekst ved skrivefeil og struktur.
 HR Norge. https://www.hrnorge.no/tema/ressursplanlegging-og-rekruttering/mangfold-og-inkludering
 
+sikring av god kommunikasjon
+I denne oppgåva har eg ikkje brukt anna kjelde enn meg sjølv og erfaringar frå tidlegare arbeidslivet som IKT-lærling og IT-Konsulent hjå Tussa ikt as.
