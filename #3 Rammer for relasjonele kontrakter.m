@@ -1,7 +1,6 @@
 # 3. Rammer for relasjonelle kontrakter
 
-kontrakter handler om å lage avtaler i et prosjekt som ikke bare tar for seg tid, kostnad og kvalitet, men også hvordan teamet skal samarbeide. Det betyr å sette klare forventninger til kommunikasjon, tillit
-og hvordan man håndterer konflikter. Målet er å skape et godt grunnlag for samarbeid og forebygge misforståelser og problemer underveis i prosjektet.
+kontrakter handler om å lage avtaler i et prosjekt som ikke bare tar for seg tid, kostnad og kvalitet, men også hvordan teamet skal samarbeide. Det betyr å sette klare forventninger til kommunikasjon, tillit og hvordan man håndterer konflikter. Målet er å skape et godt grunnlag for samarbeid og forebygge misforståelser og problemer underveis i prosjektet.
 ## 3.1 Hva er en relasjonell kontrakt?
 
 En relasjonell kontrakt handler om mer enn leveranser: den definerer hvordan partene skal jobbe sammen. Viktige tema er:  
