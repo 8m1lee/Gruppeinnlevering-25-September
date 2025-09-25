@@ -6,7 +6,7 @@
 rekruttering er fordelene mange og tiden man bruker på rekruttering er en investering i bedriftens fremtid. Dette er grunnet økt produktivitet, bedre kostnadskontroll, godt arbeidsmiljø og lavere turnover som igjen gir en stabil arbeidsstyrke og langsiktige resultater.*
 
   
-s
+
 ###  *Steg 1 - tenk over dine behov!*
 
 *Før du går i gang med rekrutteringsprosessen er det viktig å få en oversikt over hvilke behov organisasjonen har. Er horisonten kort eller lang? Fast eller midlertidig stilling? Hvilke ferdigheter og erfaringer er nødvendige? Hvilke personlige egenskaper trengs? Her er det også viktig å huske på at du har ulike teamroller som skal fylles som produksjon, administrasjon, integrasjon og entreprenørskap.*
