@@ -1,3 +1,5 @@
+ Håndtering_av_tidspress_og_planleggingsfellen
+
 Strategi_for_sammensetning
 # Strategi for sammensetning 
 
