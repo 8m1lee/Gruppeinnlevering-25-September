@@ -29,9 +29,3 @@ En slik prosedyrer skaper en forventing til hvordan konflikter skal og en tryggh
 **Oppsummering**
 
 For Erlings prosjekt vil proaktive mekanismer for konflikthåndtering være avgjørende for prosjektets suksess. Gjennom tydelig forventningsavklaring, satte møter, avtalte beslutningsprosesser og en enkel prosedyre for konflikthåndtering vi gruppen kunne skape trygghet, forutsigbarhet og godt samarbeid på tvers av fagområder og interesser. 
-
-**Kilder**
-1.	Gjøsund, P., & Huseby, R. (2015). To eller flere... Basiskunnskaper i gruppepsykologi (4. utg.). Cappelen Damm Akademisk
-2.	Jacobsen, D. I. (2016). Engangsorganisasjonen
-3.	I denne oppgaven har også språkmodellen GPT-5 via ChatGPT+ for å forbedre setningsstrukturer og grammatiske feil. Jeg har ikke brukt den til å skrive hele avsnitt, men til å bearbeide min egen tekst. 
- 
