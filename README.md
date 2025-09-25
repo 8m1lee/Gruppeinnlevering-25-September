@@ -133,7 +133,9 @@ Stein, J. (u.å.). Using the Stages of Team Development. MIT Human Recources: ht
 *  Gjøsund, P., & Huseby, R. (2015). To eller flere... Basiskunnskaper i gruppepsykologi (4. utg.). Cappelen Damm Akademisk
 *  Jacobsen, D. I. (2016). Engangsorganisasjonen
 *  Denne oppgaven har også språkmodellen GPT-5 via ChatGPT+ for å forbedre setningsstrukturer og grammatiske feil. Jeg har ikke brukt den til å skrive hele avsnitt, men til å bearbeide min egen tekst. 
- 
 
-
-
+Statensarbeidsgiverportal: https://arbeidsgiver.dfo.no/rekruttering-i-staten/rekrutteringsprosess
+Jobbanalyse, Statensarbeidsgiverportal: https://arbeidsgiver.dfo.no/strategisk-hr/inkluderingsarbeid/bli-bedre-pa-rekruttering/hvordan-gjore-en-jobbanalyse
+Eget arbeid fra tidligere jobb innen HR
+GPT.uio er brukt for å forbedre min egen tekst ved skrivefeil og struktur.
+HR Norge. https://www.hrnorge.no/tema/ressursplanlegging-og-rekruttering/mangfold-og-inkludering
