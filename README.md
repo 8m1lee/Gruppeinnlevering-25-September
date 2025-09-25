@@ -1,5 +1,4 @@
 Håndtering_av_tidspress_og_planleggingsfellen
-# Gruppeinnlevering-25-September
 
 # 1 Strategi for sammensetning 
 
