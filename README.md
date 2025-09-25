@@ -1,3 +1,6 @@
+Håndtering_av_tidspress_og_planleggingsfellen
+# Gruppeinnlevering-25-September
+
 # 1 Strategi for sammensetning 
 
 I tillegg til å utarbeide en strategi for rekruttering, må de nyrekrutterte medlemmene settes sammen på en strategisk måte, slik at medlemmene etablerer bra dynamikk innenfor prosjektgruppene. Når gruppene først blir slått sammen, er det viktig å forstå hvordan de kan utvikles.
@@ -111,7 +114,7 @@ Prosjektet bør starte med et møte der kontrakten diskuteres og forankres hos a
 •	Lundin, R. A., & Söderholm, A. (1995). A theory of the temporary organization. Scandinavian Journal of Management,
    
 • Turner, J. R., & Müller, R. (2003). On the nature of the project as a temporary organization. International Journal of Project Management,
-=======
+
 
 #  **4 proaktive-mekanismer-for-konflikthåndtering**
 
@@ -175,4 +178,5 @@ Jobbanalyse, Statensarbeidsgiverportal: https://arbeidsgiver.dfo.no/strategisk-h
 Eget arbeid fra tidligere jobb innen HR
 GPT.uio er brukt for å forbedre min egen tekst ved skrivefeil og struktur.
 HR Norge. https://www.hrnorge.no/tema/ressursplanlegging-og-rekruttering/mangfold-og-inkludering
+
 
