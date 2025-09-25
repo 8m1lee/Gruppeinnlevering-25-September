@@ -113,9 +113,9 @@ Prosjektet bør starte med et møte der kontrakten diskuteres og forankres hos a
 • Turner, J. R., & Müller, R. (2003). On the nature of the project as a temporary organization. International Journal of Project Management,
 =======
 
-# 4 proaktive-mekanismer-for-konflikthåndtering
+#  **4 proaktive-mekanismer-for-konflikthåndtering**
 
-# **Proaktive mekkanismer for konfikthåntering**
+
 I en prosjektgruppe som denne er det alltid risiko for at konflikter kan oppstå og eskalerer. Derfor er det viktig at gruppen reflekter over dette tidlig i prosessen. Det finnes fler proaktive mekanismer som kan iverksettes for å forebygge konflikter og legge et godt grunnlag for konflikthåndtering underveis i prosjektet. 
 
 **Forventnigsavklaring**
@@ -147,7 +147,6 @@ For Erlings prosjekt vil proaktive mekanismer for konflikthåndtering være avgj
 
 
 
-Kildeliste
 # Kildeliste
 
 Institute of Project Management. (2022, Desember 09). The 5 Stages of Team Development: Tuckman’s Model. Institute of Project Management: https://instituteprojectmanagement.com/blog/the-5-stages-of-team-development/ 
