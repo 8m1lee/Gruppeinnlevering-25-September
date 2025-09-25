@@ -114,7 +114,6 @@ Prosjektet bør starte med et møte der kontrakten diskuteres og forankres hos a
 =======
 
 4 proaktive-mekanismer-for-konflikthåndtering
-## **Gruppeinnlevering-25-September** 
 
 # **Proaktive mekkanismer for konfikthåntering**
 I en prosjektgruppe som denne er det alltid risiko for at konflikter kan oppstå og eskalerer. Derfor er det viktig at gruppen reflekter over dette tidlig i prosessen. Det finnes fler proaktive mekanismer som kan iverksettes for å forebygge konflikter og legge et godt grunnlag for konflikthåndtering underveis i prosjektet. 
