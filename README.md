@@ -75,9 +75,8 @@ Avslutningsvis bør prosjektlederen runde av med en oppsummering av hovedpunkten
 
 # 3. Rammer for relasjonelle kontrakter
 
-rammer-for-relasjonelle-kontrakter
 kontrakter handler om å lage avtaler i et prosjekt som ikke bare tar for seg tid, kostnad og kvalitet, men også hvordan teamet skal samarbeide. Det betyr å sette klare forventninger til kommunikasjon, tillit og hvordan man håndterer konflikter. Målet er å skape et godt grunnlag for samarbeid og forebygge misforståelser og problemer underveis i prosjektet.
-## 3.1 Hva er en relasjonell kontrakt?
+
 
 En relasjonell kontrakt handler om mer enn leveranser: den definerer hvordan partene skal jobbe sammen. Viktige tema er:  
 - **Felles mål og verdier** – en felles forståelse av prosjektets hensikt.  
@@ -87,24 +86,18 @@ En relasjonell kontrakt handler om mer enn leveranser: den definerer hvordan par
 
 Dette styrker både effektivitet og samarbeid (Turner & Müller, 2003).
 
-## 3.2 Anbefalte elementer
+## Anbefalte elementer
+Felles mål og kriterier for suksess prosjektgruppen bør enes om både kvantitative mål (f.eks. økt innbyggerengasjement) og kvalitative mål (f.eks. brukervennlighet og trivsel i teamet) (Lundin & Söderholm, 1995).
+   
+Kommunikasjonsprotokoll klare rutiner for møter, rapportering og beslutningsnivåer. Dette gir åpenhet og gjør det enklere å ta opp utfordringer tidlig.
 
-1. **Felles mål og kriterier for suksess**  
-   Prosjektgruppen bør enes om både kvantitative mål (f.eks. økt innbyggerengasjement) og kvalitative mål (f.eks. brukervennlighet og trivsel i teamet) (Lundin & Söderholm, 1995).
+Konflikthåndtering avtale en enkel prosess, først internt i teamet deretter med prosjekteieril.
 
-2. **Kommunikasjonsprotokoll**  
-   Klare rutiner for møter, rapportering og beslutningsnivåer. Dette gir åpenhet og gjør det enklere å ta opp utfordringer tidlig.
+Tillitsbygging og samarbeid gjøres ved kontrakten som bør fremme respekt, åpenhet og samarbeid, støttet av sosiale aktiviteter og workshops som styrker teamkulturen.
 
-3. **Konflikthåndtering**  
-   Avtal en enkel prosess: først internt i teamet deretter med prosjekteieril.
+Fleksibilitet prosjekter endres, Kontrakten må inneholde mekanismer for å håndtere endringer i tid, budsjett eller krav.
 
-4. **Tillitsbygging og samarbeid**  
-   Kontrakten bør fremme respekt, åpenhet og samarbeid, støttet av sosiale aktiviteter og workshops som styrker teamkulturen.
-
-5. **Fleksibilitet**  
-   Prosjekter endres, Kontrakten må inneholde mekanismer for å håndtere endringer i tid, budsjett eller krav.
-
-## 3.3 Implementering
+##  Implementering
 
 Prosjektet bør starte med et møte der kontrakten diskuteres og forankres hos alle parter. Deretter kan den revideres jevnlig ved milepæler. På den måten fungerer kontrakten ikke bare som et juridisk dokument, men som et **aktivt verktøy for samarbeid og tillit**.
 
@@ -116,7 +109,7 @@ Prosjektet bør starte med et møte der kontrakten diskuteres og forankres hos a
 • Turner, J. R., & Müller, R. (2003). On the nature of the project as a temporary organization. International Journal of Project Management,
 
 
-#  **4 proaktive-mekanismer-for-konflikthåndtering**
+#  ** 4 proaktive-mekanismer-for-konflikthåndtering**
 
 
 I en prosjektgruppe som denne er det alltid risiko for at konflikter kan oppstå og eskalerer. Derfor er det viktig at gruppen reflekter over dette tidlig i prosessen. Det finnes fler proaktive mekanismer som kan iverksettes for å forebygge konflikter og legge et godt grunnlag for konflikthåndtering underveis i prosjektet. 
