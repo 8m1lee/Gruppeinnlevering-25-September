@@ -79,10 +79,10 @@ kontrakter handler om å lage avtaler i et prosjekt som ikke bare tar for seg ti
 
 
 En relasjonell kontrakt handler om mer enn leveranser: den definerer hvordan partene skal jobbe sammen. Viktige tema er:  
-- **Felles mål og verdier** – en felles forståelse av prosjektets hensikt.  
-- **Beslutningsprosesser** – hvem tar hvilke beslutninger.  
-- **Kommunikasjonsrutiner** – tydelig struktur for møter og rapportering.  
-- **Konflikthåndtering** – hvordan uenigheter håndteres før de eskalerer.  
+- **Felles mål og verdier,**  en felles forståelse av prosjektets hensikt.  
+- **Beslutningsprosesser,**  hvem tar hvilke beslutninger.  
+- **Kommunikasjonsrutiner,**  tydelig struktur for møter og rapportering.  
+- **Konflikthåndtering,** hvordan uenigheter håndteres før de eskalerer.  
 
 Dette styrker både effektivitet og samarbeid (Turner & Müller, 2003).
 
