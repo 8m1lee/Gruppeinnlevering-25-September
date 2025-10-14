@@ -239,5 +239,3 @@ Eget arbeid fra tidligere jobb innen HR
 GPT.uio er brukt for å forbedre min egen tekst ved skrivefeil og struktur.
 HR Norge. https://www.hrnorge.no/tema/ressursplanlegging-og-rekruttering/mangfold-og-inkludering
 
-sikring av god kommunikasjon
-I denne oppgåva har eg ikkje brukt anna kjelde enn meg sjølv og erfaringar frå tidlegare arbeidslivet som IKT-lærling og IT-Konsulent hjå Tussa ikt as.
