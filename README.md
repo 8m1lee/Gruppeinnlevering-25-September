@@ -165,10 +165,8 @@ En plan er en noe som skal fortelle oss om fremtiden, men når man lager planer 
 
 
 ##  Sikring av god kommunikasjon: Råd og anbefalinger som prosjektlederen kanbenytte for å sikre en god og effektiv kommunikasjon i teamet.
-
-# Hvorfor kommunikasjon er avgjørende
-
-## Heterogent team → ulike fagfelt, språk og perspektiver
+Hvorfor kommunikasjon er avgjørende
+Heterogent team → ulike fagfelt, språk og perspektiver
     
 Å være forskjellige er ganske avgjerande, spesielt når det handlar om prosjekt samarbeid. Tar utgangspunktet i om vi alle hadde kun eit fagfelt, språk eller perspektiv då hadde vi alle sikkert tenkt på å lage ein ting for eksempel sykkel, da hadde ingen tenkt på å lage motorsykkel, bil, fly osv... Dermed settast eit ekstra vekt på at teamet skal bestå av forskjellige folk med forskjellige fagfelt, språk og perspektiv. Da leverer teamet dream resultat. I dette tilfelle skal teamet jobbe for same mål og produkt, men likevel krevast at teamet skal bestå av forskjellige fagfolk med forskjellige språk og spesielt med forskjellige perspektiv for å levere det beste resultatet som mogleg.
     
