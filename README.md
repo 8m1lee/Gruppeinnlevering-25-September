@@ -154,6 +154,7 @@ Dette fører også til at man alltid har følelsen på at man har dårlig tid he
 
  
  Noe som kan hjelpe med det er akronymet SMART-mål. Dette hjelper prosjektmedlemmene å holde mer fokus 
+
 •	Spesifikke – så klare at de forstås likt av alle involverte i prosjektet 
 •	Målbare – at det klart og objektivt kan slås fast om målene er nådd eller ikke 
 •	Aksepterte – at de sentrale interessenter i prosjekter er enige om målene 
