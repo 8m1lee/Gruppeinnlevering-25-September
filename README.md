@@ -100,10 +100,6 @@ Prosjektet bør starte med et møte der kontrakten diskuteres og forankres hos a
 
 ---
 
-## Referanser
-•	Lundin, R. A., & Söderholm, A. (1995). A theory of the temporary organization. Scandinavian Journal of Management,
-   
-• Turner, J. R., & Müller, R. (2003). On the nature of the project as a temporary organization. International Journal of Project Management,
 
 
 # 4 Proaktive mekanismer for konflikthåndtering
