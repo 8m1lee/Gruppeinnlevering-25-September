@@ -215,27 +215,22 @@ for å spare mest mogleg pengar, unngå frustrasjon og samle alt på ein plass e
 
 
 
-
-
 # Kildeliste
 
-Institute of Project Management. (2022, Desember 09). The 5 Stages of Team Development: Tuckman’s Model. Institute of Project Management: https://instituteprojectmanagement.com/blog/the-5-stages-of-team-development/ 
+Gjøsund, P., & Huseby, R. (2015). To eller flere... Basiskunnskaper i gruppepsykologi (4. utg.). Cappelen Damm Akademisk.
 
-Stein, J. (u.å.). Using the Stages of Team Development. MIT Human Recources: https://hr.mit.edu/learning-topics/teams/articles/stages-development 
+HR Norge. (u.å.). Mangfold og inkludering. https://www.hrnorge.no/tema/ressursplanlegging-og-rekruttering/mangfold-og-ink
 
-Lundin, R. A., & Söderholm, A. (1995). A theory of the temporary organization. Scandinavian Journal of Management,
-   
-• Turner, J. R., & Müller, R. (2003). On the nature of the project as a temporary organization. International Journal of Project Management,
+Institute of Project Management. (2022, 9. desember). The 5 Stages of Team Development: Tuckman’s Model. https://instituteprojectmanagement.com/blog/the-5-stages-of-team-development/
 
-•Jackobsen, D.I (2016) Engangsorganisasjonen (1.utg) fagbokforlaget 
+Jacobsen, D. I. (2016). Engangsorganisasjonen (1. utg.). Fagbokforlaget.
 
-*  Gjøsund, P., & Huseby, R. (2015). To eller flere... Basiskunnskaper i gruppepsykologi (4. utg.). Cappelen Damm Akademisk
-*  Jacobsen, D. I. (2016). Engangsorganisasjonen
-*  Denne oppgaven har også språkmodellen GPT-5 via ChatGPT+ for å forbedre setningsstrukturer og grammatiske feil. Jeg har ikke brukt den til å skrive hele avsnitt, men til å bearbeide min egen tekst. 
+Jobbanalyse. (u.å.). Statens arbeidsgiverportal. https://arbeidsgiver.dfo.no/strategisk-hr/inkluderingsarbeid/bli-bedre-pa-rekruttering/hvordan-gjore-en-jobbanalyse
 
-Statensarbeidsgiverportal: https://arbeidsgiver.dfo.no/rekruttering-i-staten/rekrutteringsprosess
-Jobbanalyse, Statensarbeidsgiverportal: https://arbeidsgiver.dfo.no/strategisk-hr/inkluderingsarbeid/bli-bedre-pa-rekruttering/hvordan-gjore-en-jobbanalyse
-Eget arbeid fra tidligere jobb innen HR
-GPT.uio er brukt for å forbedre min egen tekst ved skrivefeil og struktur.
-HR Norge. https://www.hrnorge.no/tema/ressursplanlegging-og-rekruttering/mangfold-og-inkludering
+Lundin, R. A., & Söderholm, A. (1995). A theory of the temporary organization. Scandinavian Journal of Management.
 
+Statens arbeidsgiverportal. (u.å.). Rekrutteringsprosess i staten. https://arbeidsgiver.dfo.no/rekruttering-i-staten/rekrutteringsprosess
+
+Stein, J. (u.å.). Using the Stages of Team Development. MIT Human Resources. https://hr.mit.edu/learning-topics/teams/articles/stages-development
+
+Turner, J. R., & Müller, R. (2003). On the nature of the project as a temporary organization. International Journal of Project Management.
