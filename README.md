@@ -1,6 +1,3 @@
- strategi_for_rekruttering
-Strategi for rekruttering, oppdatert
-
 Strategi for rekruttering
 Et prosjekt sin suksess avhenger i stor grad av hvordan gruppen settes sammen. Rekrutteringen må derfor være både oppgave orientert og menneskeorientert. Jacobsen(2016) understreker at prosjektets faglige sammensetning først bestemmes av de tekniske og faglige kravene prosjektet stiller, men at det i tillegg er avgjørende å vurdere personlige egenskaper samt vurdere hvordan medlemmene fungerer sosialt sammen (s.32). Prosjektmedlemmer må ikke bare ha riktig kompetanse, men også evner innen samarbeid, kommunikasjon og relasjonsbygging, grunnet prosjekter ofte innebærer stress og press. (Jacobsen, 2016, s. 32-34)
 
@@ -36,46 +33,48 @@ Vektlegge personlige egenskaper, samarbeidsevne, kommunikasjon og stressmestring
 
 Gjennom å kombinere fagkompetanse, teamroller, og et balansert mangfold, kan prosjektlederen rekruttere en gruppe som både har kapasitet til å nå målene og samtidig samarbeide effektivt gjennom hele prosjektperioden.
 
+## Strategi for rekruttering
 
+ Et prosjekt sin suksess avhenger i stor grad av hvordan gruppen settes sammen. Rekrutteringen må derfor være både oppgave orientert og menneskeorientert. Jacobsen(2016) understreker at prosjektets faglige sammensetning først bestemmes av de tekniske og faglige kravene prosjektet stiller, men at det i tillegg er avgjørende å vurdere personlige egenskaper samt vurdere hvordan medlemmene fungerer sosialt sammen (s.32). Prosjektmedlemmer må ikke bare ha riktig kompetanse, men også evner innen samarbeid, kommunikasjon og relasjonsbygging, grunnet prosjekter ofte innebærer stress og press. (Jacobsen, 2016, s. 32-34)
 
-# 1. Strategi for rekruttering
+  I tillegg viser Jacobsen (2016) til at gode prosjektgrupper bør dekke flere teamroller:
 
-God rekruttering er avgjørende for et godt resultat. I en hver organisasjons suksess er god rekruttering en viktig komponent. Rekruttering er prosessen en organisasjon bruker for å identifisere, tiltrekke og ansette kandidater til ledige stillinger. Å ha rett kompetanse på rett sted kan være avgjørende for å nå virksomhetens mål.
+* Produksjon: personer med solid fagkunnskap og gjennomføringsevne.
 
-Med en god og effektiv rekrutteringsprosess sikrer man at en har både rette ferdigheter men samtidig også personer som passer inn i organisasjonens kultur og verdier. Ved god
-rekruttering er fordelene mange og tiden man bruker på rekruttering er en investering i bedriftens fremtid. Dette er grunnet økt produktivitet, bedre kostnadskontroll, godt arbeidsmiljø og lavere turnover som igjen gir en stabil arbeidsstyrke og langsiktige resultater.
+* Administrasjon: personer som skaper struktur og oversikt.
 
-###  Steg 1 - tenk over dine behov!
+* Integrasjon: personer som ivaretar relasjoner og samhold.
 
-Før du går i gang med rekrutteringsprosessen er det viktig å få en oversikt over hvilke behov organisasjonen har. Er horisonten kort eller lang? Fast eller midlertidig stilling? Hvilke ferdigheter og erfaringer er nødvendige? Hvilke personlige egenskaper trengs? Her er det også viktig å huske på at du har ulike teamroller som skal fylles som produksjon, administrasjon, integrasjon og entreprenørskap.
+* Entreprenørskap: personer som utfordrer etablerte løsninger og bidrar med nye perspektiver. (s.33)
 
-### Steg 2 - analyser!
+  
+Denne balansen i roller gjør at gruppen både kan levere faglig kvalitet, sikre god samhandling i gruppen og samtidig være innovativ.
 
-En jobbanalyse er en prosess for å samle og evaluere informasjon om en jobb eller prosjekt. En god jobbanalyse er et godt verktøy for å få en oversikt over hvilke kompetanse du trenger i ditt team. Her er en [link](https://arbeidsgiver.dfo.no/strategisk-hr/inkluderingsarbeid/bli-bedre-pa-rekruttering/hvordan-gjore-en-jobbanalyse) til en god guide for jobbanalyse.
+Mangfold trekkes også frem som en sentral faktor. I følge Jacobsen (2016) kan prosjekter med relativt stort mangfold (f.eks. i fagbakgrunn, alder, erfaring og kjønn) ha bedre forutsetninger for innovasjon og utvikling. Samtidig må dette balanseres mot behovet for en viss grad av sosial og demografisk likhet, fordi likhet kan fremme tidlig tillit og redusere konflikter. (s. 34 -35)
 
-### Steg 3 - annonser!
+Gjøsund og Huseby (2015) støtter denne forståelsen gjennom sin gruppepsykologiske tilnærming hvor de viser hvordan ulike roller (formelle og uformelle) og et visst mangfold i gruppesammensetningen kan styrke både oppgaveorientering og relasjonell dynamikk.
 
-En viktig del av prosessen er å nå ut til de rette kandidatene. Her finnes det mange gode plattformer som du har til disposisjon. Finn.no, LinkedIn og kommunens egne nettsider er gode steder å publisere stillingsannonser. Du kan også bruke steder som Jobylon, Reachmee og Indeed for å nå ut til flere kandidater. Disse plattformene er gode å bruke for å administrere søknader og kommunisere med kandidater effektivt. Her kan du også lage personlige søknadsskjemaer og tester som hjelper deg å finne de rette kandidatene for stillingen din.
+En ensidig sammensatt gruppe kan raskere oppleve rollekonflikter og stagnasjon, i motsetning har en heterogen gruppe et større potensial for kreativitet, fornyelse og læring.(s.29)
 
-### Steg 4 - gjennomgå kandidater!
+  
 
-Nå er du klar for å gå gjennom søknader. Her er det viktig å ha en strukturert tilnærming slik at du ikke går glipp av potensielt gode kandidater. Lag gjerne en ideell liste med kriterier du ønsker at personene skal ha. Her kan du ta utgangspunkt i jobbanalysen du gjorde i steg 2 samt notatene dine for behov i steg 1.
+Rekrutteringsstrategi:
 
-### Steg 5 - kall inn til intervju!
+1. Dekke alle teamroller (produksjon, administrasjon, integrasjon, entreprenørskap)
 
-Intervju er en viktig del av rekrutteringsprosessen. Her får du muligheten til å bli bedre kjent med kandidatene og deres erfaringer i tillegg til at du får en bedre personlig inntrykk. Forbered gode spørsmål på forhånd og pass på at du får dekker dine viktige punkter. Du kan også vurdere å bruke caseoppgaver eller tester for å få et grundigere inntrykk av kandidatenes ferdigheter.
+2. Representasjon fra ulike instanser (kommunie, politikk, fagspesialister, brukere)
 
-### Steg 6 - ta en beslutning!
+3. Tilrettelegge for mangfold, faglig og sosialt for å stimulere til innovasjon.
 
-Når du nå har gjennomført intervjuene er det på tide å ta en beslutning. Vurder kandidatene etter hva som passer best for stillingen og prosjektet. Husk å ta hensyn til både faglige kvalifikasjoner og personlige egenskaper. Sjekk også alltid referanser for å få en bedre forståelse av kandidaten.
+4. Balanseres med grad av sosial og demografisk likhet, for å skape tillit.
 
-### Steg 7 - onboarding!
+5. Vektlegge personlige egenskaper, samarbeidsevne, kommunikasjon og stressmestring.
 
-Onboarding er å integrere nye ansatte i organisasjonen. En god onboardingprosess er viktig for å sikre at nye ansatte føler seg velkomne men også blir raskt produktive i sin nye rolle. Her er noen gode tips; lag en plan for de første dagene og ukene. Her kan du inkludere introduksjoner til teamet, opplæring, og informasjon om prosjektets kultur og verdier.
+  
 
-*Ved å følge disse stegene for rekruttering vil du ha et godt utgangspunkt videre arbeid i prosjektet. Det er mennesker som er hjertet av prosjektet, og deres engasjement, kreativitet og samarbeid er avgjørende for suksess!*
+Gjennom å kombinere fagkompetanse, teamroller, og et balansert mangfold, kan prosjektlederen rekruttere en gruppe som både har kapasitet til å nå målene og samtidig samarbeide effektivt gjennom hele prosjektperioden.
 
-# Strategi for sammensetning 
+## Strategi for sammensetning 
 
 
 I tillegg til å utarbeide en strategi for rekruttering, må de nyrekrutterte medlemmene settes sammen på en strategisk måte, slik at medlemmene etablerer bra dynamikk innenfor prosjektgruppene. Når gruppene først blir slått sammen, er det viktig å forstå hvordan de kan utvikles.
@@ -106,7 +105,7 @@ I den siste avslutningsfasen, _adjourning_, kan Erling bruke denne muligheten ti
 Oppstartsmøtet eller «det første møtet», er en avgjørende fase i ethvert prosjekt. Det legger grunnlaget for samarbeidet som skal finne sted, og er særlig viktig når deltakerne i prosjektet ikke kjenner hverandre fra før. Selv om noen kanskje har arbeidet i samme organisasjon eller tidligere prosjekter, er det langt fra sikkert at de kjenner hverandres arbeidsstil, styrker og svakheter. Derfor er det essensielt å bruke oppstartsmøtet til å bygge trygghet, etablere relasjoner og danne et felles utgangspunkt for videre samarbeid. Teambygging er en sentral del av oppstartsmøtet. Dette er ofte første mulighet til å observere og erfare hvordan deltakerne kommuniserer, løser oppgaver og interagerer med hverandre. I denne fasen kan deler av møtet oppfattes som lite relevante for selve prosjektet, som for eksempel uformelle samtaler om tidligere prosjekter, erfaringer eller generell jobbprat. Dette kalles gjerne for «pseudo-arbeid», en type kommunikasjon som ikke direkte handler om prosjektets mål eller oppgaver. Likevel kan slike samtaler ha en viktig funksjon. Til tross for at pseudo-arbeid ofte blir sett på som negativt eller tidkrevende, kan det spille en avgjørende rolle i relasjonsbyggingen mellom deltakerne. Gjennom småprat, mimring og erfaringsdeling etableres grunnleggende sosiale bånd. Man får innblikk i hverandres faglige bakgrunn, personlige egenskaper og arbeidsstil. Dette bidrar til å utvikle forståelse, tillit og en felles virkelighetsforståelse, faktorer som er avgjørende for et velfungerende prosjektteam. Oppstartsmøtet bør derfor inneholde både en formell og en uformell del. Den formelle delen kan inkludere introduksjon av prosjektets mål, organisering, roller og forventninger. Her bør deltakerne også introdusere seg selv, da ikke bare med navn og stilling, men gjerne med refleksjoner rundt tidligere teamarbeid, egne styrker og svakheter i samarbeidssituasjoner og hvilken rolle man ofte tar i et team. Dette kan skape bevissthet hos individene og gi teamet et tydeligere bilde av hvordan samarbeidet kan organiseres. Den uformelle delen, pseudo-arbeidet, bør gis rom og legitimitet. Å dele erfaringer, diskutere tidligere prosjekter og snakke om arbeidsrelaterte, men ikke prosjektrettede temaer, kan bidra til en tryggere og mer åpen atmosfære. Dette kan redusere risikoen for misforståelser og konflikter senere i prosjektet, fordi deltakerne allerede har etablert en relasjonell plattform de kan støtte seg på. Et godt oppstartsmøte handler altså ikke bare om struktur og planer, men like mye om mennesker. Det skal legge grunnlaget for gjensidig forståelse, trygghet og samarbeid. Selv om det ikke finnes garantier for at konflikter eller uenigheter unngås, øker sannsynligheten for et velfungerende samarbeid når deltakerne har fått anledning til å bli kjent, både faglig og personlig (Jacobsen, D. I, 2016, s. 37-38). 
 
 
-# 3. Rammer for relasjonelle kontrakter
+#  Rammer for relasjonelle kontrakter
 
 kontrakter handler om å lage avtaler i et prosjekt som ikke bare tar for seg tid, kostnad og kvalitet, men også hvordan teamet skal samarbeide. Det betyr å sette klare forventninger til kommunikasjon, tillit og hvordan man håndterer konflikter. Målet er å skape et godt grunnlag for samarbeid og forebygge misforståelser og problemer underveis i prosjektet.
 
@@ -136,13 +135,9 @@ Prosjektet bør starte med et møte der kontrakten diskuteres og forankres hos a
 
 ---
 
-## Referanser
-•	Lundin, R. A., & Söderholm, A. (1995). A theory of the temporary organization. Scandinavian Journal of Management,
-   
-• Turner, J. R., & Müller, R. (2003). On the nature of the project as a temporary organization. International Journal of Project Management,
 
 
-# 4 Proaktive mekanismer for konflikthåndtering
+#  Proaktive mekanismer for konflikthåndtering
 I prosjektsamarbeid er konflikter nesten umulig og unngå. Ulike perspektiver, roller og forventinger kan skape spenninger og usikkerheter som lett kan eskalere dersom gruppen ikke har et bevist forhold til hvordan konflikter skal håndteres. Det er derfor viktig å etablere proaktive mekanismer tidlig i prosjektet for å forebygge konflikter og sikre et trykt og godt gruppeklima. (Gjøsund & Huseby, 2015, s. 161-164) (Jacobsen, 2016, s. 59-66)
 
 **Forventingsavklaring**
@@ -170,7 +165,7 @@ En slik prosedyrer skaper en forventing til hvordan konflikter skal og en tryggh
 
 For Erlings prosjekt vil proaktive mekanismer for konflikthåndtering være avgjørende for prosjektets suksess.  Det vil styrke både relasjonene og oppgavene i prosjektet. Gjennom tydelig forventningsavklaring, strukturerte møter, avtalte beslutningsprosesser og en enkel prosedyre for konflikthåndtering kan gruppen skape trygghet, forutsigbarhet og godt samarbeid på tvers av fagområder og interesser som øker prosjektets sjanser for suksess (Gjøsund & Huseby, 2015, s. 161-164; Jacobsen, 2016. s- 59-70)
 
-# 5. Håndtering av tidspress og planleggingsfellen
+#  Håndtering av tidspress og planleggingsfellen
 
 Når man starter med et prosjekt, får man ofte tidspress og havner i planleggingsfellen. Her er noen råd til prosjektlederen (Erling) om hvordan man kan unngå å motvirke dette, sånn at du får en balansert, klar og fleksibel plan, og hvordan man kan motvirke handlingspresset i tidlig fase. 
 
@@ -204,7 +199,7 @@ Prosjektlederen burde fokuserer på å balansere teambygging og planlegging i ti
 En plan er en noe som skal fortelle oss om fremtiden, men når man lager planer så er det umulig å vite hva som kommer til å skje i fremtiden, så det er mye usikkerhet, og usikkerhet er størst i starten av et prosjekt. Usikkerhet er noe man bør forvente på starten av et prosjekt, man burde være forbedret på at det vil skje noe uventede ting. Jo lengere prosjektet varer og hvor vanskelig et prosjekt er, jo større er usikkerheten som man må regne med, og derfor må sånne større prosjekter regne med endringer underveis i planen. Dette skaper noe som heter planleggingsparadokset. Det handler om å finne balansen mellom en tydelig plan og rom for nødvendige justeringer. Her spiller det hvor mye en plan burde være detaljert, alt for detaljert plan kan være bra, men kan også føre til stiavhengighet. Som vil si at det vil være vanskeligere å endre på planer senere i prosessen så ikke så åpent, men altfor åpent plan kan føre til dårlig koordinering, frustrasjon fordi du ikke vet når ting skal skje og problemer med motivasjon fordi det er uklare tidsfrister for eksempel. I dette tilfelle så er kommunikasjon en veldig viktig ting å tenke på, for prosjektmedlemmene burde ha klarhet over planen, men samtidig være åpne til nye ideer og endringer så kommunikasjon kan hjelpe med dette. Som oftest så bruker man elektronisk, men man må lage ett system der man kan finne ut av åssen prosessen går, altså om man finner ut av noen problemer eller om det er en uenighet som kan diskuteres i for eksempel møter på nettet eller direkte møter. Disse møtene kan hjelpe med nye ideer, men kan også se på ulike deler av prosjektet som bør endres eller ses mer på. Så det som skal frem er at planlegging handler om å finne balansen mellom faste mål og rom for endringer (Jacobsen, 2016, s. 47-50).  
 
 
-## 6. Sikring av god kommunikasjon: Råd og anbefalinger som prosjektlederen kanbenytte for å sikre en god og effektiv kommunikasjon i teamet.
+##  Sikring av god kommunikasjon: Råd og anbefalinger som prosjektlederen kanbenytte for å sikre en god og effektiv kommunikasjon i teamet.
 
 # Hvorfor kommunikasjon er avgjørende
 
