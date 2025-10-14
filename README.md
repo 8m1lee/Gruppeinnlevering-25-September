@@ -112,7 +112,7 @@ Prosjektet bør starte med et møte der kontrakten diskuteres og forankres hos a
 # 4 Proaktive mekanismer for konflikthåndtering
 I prosjektsamarbeid er konflikter nesten umulig og unngå. Ulike perspektiver, roller og forventinger kan skape spenninger og usikkerheter som lett kan eskalere dersom gruppen ikke har et bevist forhold til hvordan konflikter skal håndteres. Det er derfor viktig å etablere proaktive mekanismer tidlig i prosjektet for å forebygge konflikter og sikre et trykt og godt gruppeklima. (Gjøsund & Huseby, 2015, s. 161-164) (Jacobsen, 2016, s. 59-66)
 
-**FORVENTININGS AVKLARING**
+**Forventingsavklaring**
 
 En tydelig forventningsavklaring ved prosjektstart bidrar til å skape en felles forståelse og forebygge eventuell misforståelse som kan oppstå. Gjøsund & Huseby, (2015) understreker betydningen av å etablere normer, verdier og prinsipper for samarbeid i gruppen. Ved å ha åpne dialog innad i gruppa om arbeidsmengde, innsats, roller og kommunikasjon skapes det trygge rammer for samarbeid. Dette er også i tråd med hvordan de beskriver hvordan grupper utvikler sosial kontroll (s, 52-56) og hvordan kommunikasjon danner grunnlaget for et bra damspill (s, 100-104). En slik prosess reduserer risikoen for misforståelse og skylte konflikter. 
 
