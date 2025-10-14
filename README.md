@@ -127,9 +127,9 @@ Det er avgjørende for gruppen at de på forhånd har snakket om og skapt en eni
 **Konfliktforebyggende prosedyrer**
 
 Det er viktig at prosjektgruppen setter tydelige rammer for hvordan konflikter i gruppa skal håndteres. Ved å ha en enkel og strukturert prosedyre kan avklare uenigheter raskt. En slik prosedyre kan se slik ut:
-*Tidsramme for løsning: Ved konflikter mellom gruppemedlemmer skal disse løses på en saklig måte mellom de medlemmene det gjelder innen 48 timer.
-*Bruk av prosjektleder som tilrettelegger: Hvis medlemmene ikke klarer å komme til enighet eller løse konflikten skal saken løftes til prosjektleder (i dette tilfelle Erling) som bidrar med en kort , løsningsorienter dialog. (Jacobsen, 2016. s. 66-70)
-*Involvering av en tredjepart: Ved vedvarende eller fastlåse konflikter kan en tredjepart involveres for å løse konflikten. 
+* Tidsramme for løsning: Ved konflikter mellom gruppemedlemmer skal disse løses på en saklig måte mellom de medlemmene det gjelder innen 48 timer.
+* Bruk av prosjektleder som tilrettelegger: Hvis medlemmene ikke klarer å komme til enighet eller løse konflikten skal saken løftes til prosjektleder (i dette tilfelle Erling) som bidrar med en kort , løsningsorienter dialog. (Jacobsen, 2016. s. 66-70)
+* Involvering av en tredjepart: Ved vedvarende eller fastlåse konflikter kan en tredjepart involveres for å løse konflikten. 
 
 En slik prosedyrer skaper en forventing til hvordan konflikter skal og en trygghet på at konflikter ikke bli liggende uløste. 
 
