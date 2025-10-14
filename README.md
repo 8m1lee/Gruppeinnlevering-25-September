@@ -152,12 +152,14 @@ Derfor blir de stressa, også går de til å starte med en gang uten å legge av
 som fører til at prosjektmedlemmene havner i en spesiell tidsramme, og dette får prosjektmedlemmene til å tenke mer på fremtiden og glemmer nåtid (hva vi gjør akkurat nå) og fortiden (hva vi har gjort tidligere).
 Dette fører også til at man alltid har følelsen på at man har dårlig tid hele tiden, men prosjektmedlemmene har også handlingspress med den kombinasjonen altså tidsfrist og klare mål.
 
+ 
  Noe som kan hjelpe med det er akronymet SMART-mål. Dette hjelper prosjektmedlemmene å holde mer fokus 
 •	Spesifikke – så klare at de forstås likt av alle involverte i prosjektet 
 •	Målbare – at det klart og objektivt kan slås fast om målene er nådd eller ikke 
 •	Aksepterte – at de sentrale interessenter i prosjekter er enige om målene 
 •	Realistiske – at målene må være mulig å nå med de ressurser prosjektet har til rådighet 
 •	Tidsbegrensede – at de har en klar tidsramme (Jacobsen, 2016 s. 47)
+
 
 Med å bruke dette, så blir medlemmene mer motiverte til å kaste seg ut i prosjektet, altså handling prioriteres, som kan fører til at man kan tenke at å bli kjent med hverandre er noe som er unødvendig, eller å planlegge er uproduktivt.
 Med andre ord, så er det mye som går inn på tidspress. I dette tilfelle, så har Erling 15 måneder på seg til å bli ferdig med dette prosjektet, så å bruke tid på planlegging og teambygging er rådet som burde bli brukt for en god forståelse av hverandre, og en god plan kan hjelpe med tidspresset.
