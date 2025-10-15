@@ -231,4 +231,4 @@ Statens arbeidsgiverportal. (u.å.). Rekrutteringsprosess i staten. https://arbe
 
 Stein, J. (u.å.). Using the Stages of Team Development. MIT Human Resources. https://hr.mit.edu/learning-topics/teams/articles/stages-development
 
-Turner, J. R., & Müller, R. (2003). On the nature of the project as a temporary organization. International Journal of Project Management.
+Denne teksten er egenprodusert. Språklige og strukturelle forbedringer er gjort ved hjelp av språkmodellen GPT-5 (ChatGPT+) i tråd med UiA sine retningslinjer for bruk av KI i akademisk arbeid. Modellen er brukt til språkvask og strukturering, ikke til innholdsproduksjon.
