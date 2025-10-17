@@ -1,6 +1,5 @@
 # Oppstartspakke for medborgerportal 
-## Inhold
-- [Strategi for rekruttering] (#Strategi for rektruttering)
+
 ## Strategi for rekruttering
 
 Rekruttering og sammensetning av prosjektgruppen er en kritisk faktor for om et prosjekt lykkes. Et digitalt utviklingsprosjekt som Erling leder, vil derfor kreve kompetanse innen IT, brukervennlighet og digital sikkerhet, men også forståelse av kommunal forvaltning, politiske prosesser og brukernes behov. Prosjektets mål om økt innbyggerengasjement og transparens tilsier at man må sette sammen en gruppe med både faglig bredde og evne til å kommunisere på tvers av roller og interesser.
