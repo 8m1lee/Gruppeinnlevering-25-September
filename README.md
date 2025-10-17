@@ -189,11 +189,11 @@ Jira er ein bra løysing her og kan bli nytta på ein effektiv måte. Jira kan g
 ## Formelle saker: e-post til beslutninger og referater
 E-post er ein profesjonell måte for å handtere beslutningar, her anbefalst å bruke Outlook som er ein del av Office pakka. Office er verdens kjent og nesten alle bedrifter i verden brukar Office. Med denne løysinga kan vi sikre ein god kommunikasjon med formelle saker via e-post og Office pakka, i tillegg har vi e-post krypteringa via office365 eller Tenanten vår slik at ingen ukjente domene får sende oss e-post og få oss til å klikke på ukjente link. Dette da handlar mest om å unngå phishing og hacking.  
 
- #Visuell statusoversikt: dashboard eller prosjektplan synlig for alle
+ ## Visuell statusoversikt: dashboard eller prosjektplan synlig for alle
 Prosjektplan som er ein del av Office pakka kan også benyttast til dette formelle her. Den er ganske enkel å bruke og enkelt til å dele med kollegaer, i tillegg kan dokumentet bli kryptert/låst slik at arbeidet/prosjektet/dokumentet ikkje gå i av veg eller havne på feile hender  
 
 
-## Til slutt:
+## Til slutt
 Kommunikasjon:  
 Tidleg i prosjektet bør kommunikasjonsrutine definerast – altså alle får vete sine rolle og kven som informere om kva gjennom det digitale eller fysiske hjelpemidlar, kommunikasjonen er alltid to vegs for å sikre god informasjonsflyt.  
 Office 365 pakka:  
