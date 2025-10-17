@@ -201,6 +201,7 @@ Prosjektplan som er ein del av Office pakka kan også benyttast til dette formel
 
 
 **Til slutt**
+
 Kommunikasjon:  
 Tidleg i prosjektet bør kommunikasjonsrutine definerast – altså alle får vete sine rolle og kven som informere om kva gjennom det digitale eller fysiske hjelpemidlar, kommunikasjonen er alltid to vegs for å sikre god informasjonsflyt.  
 Office 365 pakka:  
