@@ -1,16 +1,18 @@
 ## Strategi for rekruttering
 
- Et prosjekt sin suksess avhenger i stor grad av hvordan gruppen settes sammen. Rekrutteringen må derfor være både oppgave orientert og menneskeorientert. Jacobsen(2016) understreker at prosjektets faglige sammensetning først bestemmes av de tekniske og faglige kravene prosjektet stiller, men at det i tillegg er avgjørende å vurdere personlige egenskaper samt vurdere hvordan medlemmene fungerer sosialt sammen (s.32). Prosjektmedlemmer må ikke bare ha riktig kompetanse, men også evner innen samarbeid, kommunikasjon og relasjonsbygging, grunnet prosjekter ofte innebærer stress og press. (Jacobsen, 2016, s. 32-34)
+Rekruttering og sammensetning av prosjektgruppen er en kritisk faktor for om et prosjekt lykkes. Et digitalt utviklingsprosjekt som Erling leder, vil derfor kreve kompetanse innen IT, brukervennlighet og digital sikkerhet, men også forståelse av kommunal forvaltning, politiske prosesser og brukernes behov. Prosjektets mål om økt innbyggerengasjement og transparens tilsier at man må sette sammen en gruppe med både faglig bredde og evne til å kommunisere på tvers av roller og interesser.
 
-  I tillegg viser Jacobsen (2016) til at gode prosjektgrupper bør dekke flere teamroller:
+Jacobsen(2016) understreker at prosjektets faglige sammensetning først bestemmes av de tekniske og faglige kravene prosjektet stiller, men at det i tillegg er avgjørende å vurdere personlige egenskaper samt vurdere hvordan medlemmene fungerer sosialt sammen (s.32). Prosjektmedlemmer må ikke bare ha riktig kompetanse, men også evner innen samarbeid, kommunikasjon og relasjonsbygging, grunnet prosjekter ofte innebærer stress og press. (Jacobsen, 2016, s. 32-34)
+
+ I tillegg viser Jacobsen (2016) til at gode prosjektgrupper bør dekke flere teamroller:
 
 * Produksjon: personer med solid fagkunnskap og gjennomføringsevne.
 
-* Administrasjon: personer som skaper struktur og oversikt.
+* Administrasjon: medlemmer som skaper struktur og oversikt.
 
 * Integrasjon: personer som ivaretar relasjoner og samhold.
 
-* Entreprenørskap: personer som utfordrer etablerte løsninger og bidrar med nye perspektiver. (s.33)
+* Entreprenørskap: deltakere som utfordrer etablerte løsninger og bidrar med nye perspektiver. (s.33)
 
   
 Denne balansen i roller gjør at gruppen både kan levere faglig kvalitet, sikre god samhandling i gruppen og samtidig være innovativ.
@@ -37,7 +39,7 @@ Rekrutteringsstrategi:
 
   
 
-Gjennom å kombinere fagkompetanse, teamroller, og et balansert mangfold, kan prosjektlederen rekruttere en gruppe som både har kapasitet til å nå målene og samtidig samarbeide effektivt gjennom hele prosjektperioden.
+Gjennom en slik strategi får prosjektet et team som ikke bare har nødvendig kompetanse, men også forutsetninger for å fungere godt sammen. Dette gir grunnlag for å nå prosjektets mål om innovasjon, engasjement og transparens.
 
 # Strategi for sammensetning 
 
