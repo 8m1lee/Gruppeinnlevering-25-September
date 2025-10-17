@@ -200,12 +200,10 @@ E-post er ein profesjonell måte for å handtere beslutningar, her anbefalst å 
 Prosjektplan som er ein del av Office pakka kan også benyttast til dette formelle her. Den er ganske enkel å bruke og enkelt til å dele med kollegaer, i tillegg kan dokumentet bli kryptert/låst slik at arbeidet/prosjektet/dokumentet ikkje gå i av veg eller havne på feile hender  
 
 
-**Til slutt**
-
-Kommunikasjon:  
+::Kommunikasjon:**
 Tidleg i prosjektet bør kommunikasjonsrutine definerast – altså alle får vete sine rolle og kven som informere om kva gjennom det digitale eller fysiske hjelpemidlar, kommunikasjonen er alltid to vegs for å sikre god informasjonsflyt.  
 Office 365 pakka:  
-for å spare mest mogleg pengar, unngå frustrasjon og samle alt på ein plass er Office pakka ganske genialt og enkelt til å bruke.
+ For å spare mest mogleg pengar, unngå frustrasjon og samle alt på ein plass er Office pakka ganske genialt og enkelt til å bruke.
 
     
 
