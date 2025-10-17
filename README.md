@@ -206,7 +206,15 @@ Office 365 pakka:
  For å spare mest mogleg pengar, unngå frustrasjon og samle alt på ein plass er Office pakka ganske genialt og enkelt til å bruke.
 
     
+## Oppsumering
+Prosjektets suksess står til slutt på menneskene som deltar i det. En god rekrutteringsstrategi handler derfor ikke bare om å finne personer med riktig kompetanse, men også om å bygge et lag som fungerer godt sammen. Ved å sikre bredde i erfaring, perspektiv og fagfelt, samtidig som man balanserer sosialt og kulturelt mangfold med en viss grad av likhet, kan prosjektet dra nytte av både innovasjon og stabilitet. Mangfoldet skaper kreativitet og nye løsninger, mens likhet fremmer trygghet, forståelse og effektivitet i gruppen. Samlet legger dette grunnlaget for et samarbeid preget av kreativitet, tillit og felles måloppnåelse.
 
+Gjennom bruk av Tuckman-modellen får Erling et tydelig rammeverk for å forstå og lede gruppens utvikling fra start til slutt. Bevisst planlegging i hver fase av prosjektet kan bidra til å redusere konflikter, styrke relasjoner og øke effektiviteten. Oppstartsmøtet blir derfor et avgjørende punkt der relasjoner etableres – pseudo-arbeid er med andre ord ikke bortkastet tid, men en investering i tillit og samhold.
+
+Videre vil en relasjonell kontrakt forankre prosjektets verdier, samarbeidsformer og normer. Den vil gi tydelige føringer for kommunikasjon, beslutningsprosesser og konflikthåndtering. Proaktive mekanismer for å håndtere konflikter og tidspress, kombinert med struktur og klar forventningsavklaring, bidrar til å skape trygghet og forutsigbarhet i prosjektets arbeidsmiljø.
+Til slutt ser man at kommunikasjon er selve bærebjelken i prosjektarbeidet. Et heterogent team krever åpne kanaler, felles digitale verktøy og en kultur preget av tydelig kommunikasjon, tillit og respekt. Når kommunikasjonen fungerer, forsvinner mye av usikkerheten og potensielle konflikter. Dette skaper en bedre flyt i arbeidet og gjør det enklere å nå prosjektets mål om innovasjon og engasjement.
+
+Gjennom helhetlig planlegging, bevisst teambygging og en kultur for åpen dialog står Erling bedre rustet til å lede prosjektet fra idé til vellykket gjennomføring.
 
 
 # Kildeliste
