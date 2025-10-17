@@ -1,4 +1,18 @@
 # Oppstartspakke for medborgerportal 
+Alle prosjekter kan forstås som midlertidige organisasjoner, der suksess avhenger av hvordan man strukturerer samarbeidet fra starten (Jacobsen, 2016). I motsetning til faste organisasjoner, har prosjekter en avgrenset levetid, tydelige mål og stramme rammer for tid og ressurser. Dette gjør at oppstartsfasen blir avgjørende og vil sette kursen for resten av prosjektet. 
+
+Denne oppstartspakken er utviklet med utgangspunkt i Erlings prosjekt om å utvikle en digital medborgerportal. Prosjektet er både komplekst og tidsavgrenset, derfor kreves en tverrfaglig gruppe bestående av representanter fra ulike instanser. For å lykkes, må prosjektlederen legge stor vekt på hvordan gruppen rekrutteres, settes sammen og utvikles. 
+
+Oppstartspakken bygger på teori fra Jacobsen (2016) om engangsorganisasjoner og rekruttering, samt gruppepsykologiske perspektiver fra Gjøsund og Huseby(2015). Den inkluderer også klassiske modeller fra gruppeutvikling, som Tuckmans fem faser, og perspektiver på konflikthåndtering, kommunikasjon og tillitsbygging. 
+
+Målet er å gi Erling et praktisk og forskningsbasert verktøy som kan:
+* Sikre en balansert og mangfoldig rekruttering.
+* Etablere gode samarbeidsformer i tidlig fase.
+* Forebygge konflikter og uenigheter. 
+* Håndtere tidspress og planleggingsutfordringer.
+* Bygge en kultur for åpen kommunikasjon og tillit.
+
+En strukturert oppstart reduserer risikoen for feil, øker engasjementet i teamet og legger grunnlaget for at prosjektet skal nå sine mål om innovasjon, transparens og økt innbyggerdeltakelse. 
 
 ## Strategi for rekruttering
 
