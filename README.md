@@ -76,31 +76,31 @@ Oppstartsmøtet eller «det første møtet», er en avgjørende fase i ethvert p
 
 ## Rammer for relasjonelle kontrakter
 
-kontrakter handler om å lage avtaler i et prosjekt som ikke bare tar for seg tid, kostnad og kvalitet, men også hvordan teamet skal samarbeide. Det betyr å sette klare forventninger til kommunikasjon, tillit og hvordan man håndterer konflikter. Målet er å skape et godt grunnlag for samarbeid og forebygge misforståelser og problemer underveis i prosjektet.
+Kontrakter handler om å lage avtaler i et prosjekt som ikke bare tar for seg tid, kostnad og kvalitet, men også hvordan teamet skal samarbeide. Det betyr å sette klare forventninger til kommunikasjon, tillit og hvordan man håndterer konflikter. Målet er å skape et godt grunnlag for samarbeid og forebygge misforståelser og problemer underveis i prosjektet.(Jacobsen, 2016, s. 42-45)
 
 
 En relasjonell kontrakt handler om mer enn leveranser: den definerer hvordan partene skal jobbe sammen. Viktige tema er:  
-- **Felles mål og verdier,**  en felles forståelse av prosjektets hensikt.  
+- **Felles mål og verdier,**  en felles forståelse av prosjektets hensikt. (Jacobsen, 2016, s. 42-43)
 - **Beslutningsprosesser,**  hvem tar hvilke beslutninger.  
-- **Kommunikasjonsrutiner,**  tydelig struktur for møter og rapportering.  
-- **Konflikthåndtering,** hvordan uenigheter håndteres før de eskalerer.  
+- **Kommunikasjonsrutiner,**  tydelig struktur for møter og rapportering. (Gjøsund & Husebye, 2015, s. 100-104) 
+- **Konflikthåndtering,** hvordan uenigheter håndteres før de eskalerer. (Gjøsund & Husebye, 201, s. 161 - 164)
 
-Dette styrker både effektivitet og samarbeid (Turner & Müller, 2003).
+Dette styrker både effektivitet og samarbeid (Jacobsen, 2016, s. 45).
 
 **Anbefalte elementer**
-Felles mål og kriterier for suksess prosjektgruppen bør enes om både kvantitative mål (f.eks. økt innbyggerengasjement) og kvalitative mål (f.eks. brukervennlighet og trivsel i teamet) (Lundin & Söderholm, 1995).
+Felles mål og kriterier for suksess prosjektgruppen bør enes om både kvantitative mål (f.eks. økt innbyggerengasjement) og kvalitative mål (f.eks. brukervennlighet og trivsel i teamet) (Jacobsen 2016, s. 43).
    
-Kommunikasjonsprotokoll klare rutiner for møter, rapportering og beslutningsnivåer. Dette gir åpenhet og gjør det enklere å ta opp utfordringer tidlig.
+Kommunikasjonsprotokoll klare rutiner for møter, rapportering og beslutningsnivåer. Dette gir åpenhet og gjør det enklere å ta opp utfordringer tidlig. (Gjøsund & Husebye, 2015, s. 104-106)
 
-Konflikthåndtering avtale en enkel prosess, først internt i teamet deretter med prosjekteieril.
+Konflikthåndtering avtale en enkel prosess, først internt i teamet deretter med prosjekteieril. (Gjøsund & Husebye, 2015, s. 161-164)
 
-Tillitsbygging og samarbeid gjøres ved kontrakten som bør fremme respekt, åpenhet og samarbeid, støttet av sosiale aktiviteter og workshops som styrker teamkulturen.
+Tillitsbygging og samarbeid gjøres ved kontrakten som bør fremme respekt, åpenhet og samarbeid, støttet av sosiale aktiviteter og workshops som styrker teamkulturen. (Gjøsund & Husebye, 2015, s. 73-75)
 
-Fleksibilitet prosjekter endres, Kontrakten må inneholde mekanismer for å håndtere endringer i tid, budsjett eller krav.
+Fleksibilitet prosjekter endres, Kontrakten må inneholde mekanismer for å håndtere endringer i tid, budsjett eller krav. (Jacobsen, 2016, s. 45)
 
 **Implementering**
 
-Prosjektet bør starte med et møte der kontrakten diskuteres og forankres hos alle parter. Deretter kan den revideres jevnlig ved milepæler. På den måten fungerer kontrakten ikke bare som et juridisk dokument, men som et **aktivt verktøy for samarbeid og tillit**.
+Prosjektet bør starte med et møte der kontrakten diskuteres og forankres hos alle parter. Deretter kan den revideres jevnlig ved milepæler. På den måten fungerer kontrakten ikke bare som et juridisk dokument, men som et **aktivt verktøy for samarbeid og tillit**. (Jacobsen, 2016, s. 42–45; Gjøsund & Huseby, 2015, s. 73–75)
 
 ---
 
